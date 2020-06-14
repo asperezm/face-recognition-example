@@ -1,0 +1,16 @@
+						INSTRUCCIONES PARCIAL 2
+
+Se requiere instalar las siguientes librerías:
+•	Cv2 
+>> pip install opencv-python
+>> pip install opencv-contrib-python
+
+•	Cmake
+>> pip install cmake
+
+•	Face_reconigtion
+>> pip install face_recognition
+
+Debe correr el programa “Parcial.py” y este automáticamente empieza a hacer todo el entrenamiento, espere a que termine y después elija las opciones que quiere realizar para ver las estadísticas.
+
+Utilice la libreria face_recognition para comparar las imagenes con una ponderacion y estas me reconocen la persona si de esta tengo una carpeta ubicada en la carpeta "Personas" y me las compara con las fotos de la carpeta "Eventos"
